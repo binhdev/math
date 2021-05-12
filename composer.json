@@ -1,0 +1,21 @@
+{
+    "name": "tranthanhbinh/math",
+    "description": "Thu vien toan",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ThanhBinh",
+            "email": "ttbinh@hueic.edu.vn"
+        }
+    ],
+
+    "require": {
+        "gumlet/php-image-resize": "^2.0"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Binhdev\\": "src/"
+        }
+    }
+}
